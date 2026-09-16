@@ -1,0 +1,94 @@
+{
+  "hash": "81a123df",
+  "configHash": "7a88b3bb",
+  "lockfileHash": "6b5e7776",
+  "browserHash": "5a9978e7",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "7a5ac108",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "99b9a12d",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "b8beca53",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "a5f3555c",
+      "needsInterop": true
+    },
+    "@monaco-editor/react": {
+      "src": "../../@monaco-editor/react/dist/index.mjs",
+      "file": "@monaco-editor_react.js",
+      "fileHash": "3db5f40b",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../axios/index.js",
+      "file": "axios.js",
+      "fileHash": "56b9358b",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "2ab79279",
+      "needsInterop": true
+    },
+    "react-hot-toast": {
+      "src": "../../react-hot-toast/dist/index.mjs",
+      "file": "react-hot-toast.js",
+      "fileHash": "a1040d90",
+      "needsInterop": false
+    },
+    "react-icons/bs": {
+      "src": "../../react-icons/bs/index.mjs",
+      "file": "react-icons_bs.js",
+      "fileHash": "83a05535",
+      "needsInterop": false
+    },
+    "react-icons/fa": {
+      "src": "../../react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "e6a73238",
+      "needsInterop": false
+    },
+    "react-icons/md": {
+      "src": "../../react-icons/md/index.mjs",
+      "file": "react-icons_md.js",
+      "fileHash": "93043407",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "a28e4711",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-NHCYKIUL": {
+      "file": "chunk-NHCYKIUL.js"
+    },
+    "chunk-Z5AKTONR": {
+      "file": "chunk-Z5AKTONR.js"
+    },
+    "chunk-S73QDKPN": {
+      "file": "chunk-S73QDKPN.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
